@@ -1,0 +1,16 @@
+{
+    "presets": [
+        ["env", {
+            "targets": {
+                "browsers": ["last 2 versions", "android >= 4.0", "ios >= 8.0"]
+            },
+            "modules": false,
+            "loose": true
+        }]
+    ],
+    "plugins": [
+        "transform-object-rest-spread",
+        "transform-regenerator",
+        "external-helpers"
+    ]
+}
