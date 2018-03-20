@@ -2,7 +2,7 @@
   "name": "mp-promisify",
   "version": "0.0.0",
   "description": "小程序接口promise化",
-  "main": "index.js",
+  "main": "mp-promisify.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/cytle/mp-promisify.git"
   },
-  "author": "chanfan <chanfan@2dfire.com> (https://git.2dfire-inc.com/chaofan)",
+  "author": "cytle <canyoutle@gmail.com> (https://github.com/cytle)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cytle/mp-promisify/issues"
