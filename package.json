@@ -1,6 +1,6 @@
 {
   "name": "mp-promisify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "小程序接口promise化",
   "main": "lib/mp-promisify.js",
   "scripts": {
